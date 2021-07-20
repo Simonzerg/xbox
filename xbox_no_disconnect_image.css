@@ -156,8 +156,8 @@
     position: absolute;
     background: url(http://mrmcpowned.com/gamepad/xbox-assets/stick.svgz);
     background-position: -85px 0;
-    height: 833px;
-    width: 833px;
+    height: 83px;
+    width: 83px;
 }
 .custom .stick.pressed{
     background-position: 0 0;
