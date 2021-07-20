@@ -19,7 +19,7 @@
     width: 44px;
     height: 121px;
     position: absolute;
-    left: 152px;
+    left: 15px;
 }
 .custom .trigger{
     width: 88px;
@@ -34,7 +34,6 @@
 .custom .trigger.right{
     float: right;
     transform: rotateY(180deg);
-    background-position:0 0;
 }
 .custom .bumper{
     width: 170px;
