@@ -34,8 +34,9 @@
 }
 .custom .trigger.right{
     float: right;
-    -webkit-transform: rotateY(180deg);
     transform: rotateY(180deg);
+    margin-right: 1px;
+    margin-top; 1px;
 }
 .custom .bumper{
     width: 170px;
