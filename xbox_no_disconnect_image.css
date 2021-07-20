@@ -12,6 +12,9 @@
 /*background: url(http://mrmcpowned.com/gamepad/xbox-assets/disconnected.svgz);*/
 .custom.disconnected {
     background: url();
+    /* OR
+    display: none;
+    */
 }
 .custom.disconnected div {
     display: none;
