@@ -17,13 +17,13 @@
     display: none;
 }
 .custom .triggers{
-    width: 43px;
+    width: 44px;
     height: 121px;
     position: absolute;
     left: 152px;
 }
 .custom .trigger{
-    width: 88px;
+    width: 87px;
     height: 121px;
     background: url(http://mrmcpowned.com/gamepad/xbox-assets/trigger.svgz);
     opacity: 0;
