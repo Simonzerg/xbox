@@ -1,6 +1,6 @@
-.controller.disconnected {
-
+.custom.disconnected {
+    display: none;
 }
-.controller.disconnected div {
+.custom.disconnected div {
     display: none;
 }
