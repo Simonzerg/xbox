@@ -9,9 +9,8 @@
 .custom.white{
     background: url(http://mrmcpowned.com/gamepad/xbox-assets/base-white.svgz);
 }
-/* background: url(http://mrmcpowned.com/gamepad/xbox-assets/disconnected.svgz); */
 .custom.disconnected {
-   
+    background: transparent;
 }
 .custom.disconnected div {
     display: none;
