@@ -9,14 +9,11 @@
 .custom.white{
     background: url(http://mrmcpowned.com/gamepad/xbox-assets/base-white.svgz);
 }
-/*background: url(http://mrmcpowned.com/gamepad/xbox-assets/disconnected.svgz)*/
+/*background: url(http://mrmcpowned.com/gamepad/xbox-assets/disconnected.svgz);*/
 .custom.disconnected {
     background: url();
 }
 .custom.disconnected div {
-    display: none;
-}
-.custom.disconnected .trigger {
     display: none;
 }
 .custom .triggers{
@@ -38,8 +35,6 @@
 .custom .trigger.right{
     float: right;
     transform: rotateY(180deg);
-    margin-right: 1px;
-    margin-top; 1px;
 }
 .custom .bumper{
     width: 170px;
