@@ -9,8 +9,9 @@
 .custom.white{
     background: url(http://mrmcpowned.com/gamepad/xbox-assets/base-white.svgz);
 }
+/*background: url(http://mrmcpowned.com/gamepad/xbox-assets/disconnected.svgz)*/
 .custom.disconnected {
-    background: transparent;
+    background: url();
 }
 .custom.disconnected div {
     display: none;
@@ -19,7 +20,7 @@
     width: 44px;
     height: 121px;
     position: absolute;
-    left: 15px;
+    left: 152px;
 }
 .custom .trigger{
     width: 88px;
