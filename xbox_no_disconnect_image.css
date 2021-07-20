@@ -16,6 +16,9 @@
 .custom.disconnected div {
     display: none;
 }
+.custom.disconnected .trigger {
+    display: none;
+}
 .custom .triggers{
     width: 44px;
     height: 121px;
